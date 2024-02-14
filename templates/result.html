@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}">
+</head>
+<body>
+    <h2> Score is {{  result }}</h2>
+    {% if result >= 50 %}
+    <h3> You have Passed the exam!</h3>
+    {% else %}
+    <h3>Sorry, You have failed.. </h3>
+    {% endif %}
+</body>
+</html>
