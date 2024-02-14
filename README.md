@@ -9,6 +9,7 @@ A simple Flask web application for checking exam results. Enter subject marks to
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
+- [Screenshots](#screenshots)
 
 ## Features
 
@@ -52,3 +53,9 @@ Flask
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request. Any contributions are welcome!
+
+## Screenshots
+![image](https://github.com/mkdwl/Flask-Result-Checker/assets/86614419/a2098f20-202b-4762-bbb2-b6e12a03d3ef)
+![image](https://github.com/mkdwl/Flask-Result-Checker/assets/86614419/f7fcfb4a-b536-4114-8e20-faceacd58a5a)
+![image](https://github.com/mkdwl/Flask-Result-Checker/assets/86614419/354c7fc8-c2f8-4005-a0cd-6f3b9be31dec)
+
